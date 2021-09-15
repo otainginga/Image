@@ -1,0 +1,1 @@
+<AzureDefender4IOTPropensityModel_202106>
